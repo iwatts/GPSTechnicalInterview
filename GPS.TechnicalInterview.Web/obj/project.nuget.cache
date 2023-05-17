@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "XXoyNk1Pq2iodkHXTGR5cjNrD0+xyus418gJ82vG9bXGqeLs0rqte9kyjlYUvPJWJiTgreHuSs4hN0SLP3/Ivw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\theic\\OneDrive\\Desktop\\repo\\GPSTechnicalInterview\\GPS.TechnicalInterview.Web\\GPS.ApplicationManager.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\theic\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\6.0.3\\microsoft.aspnetcore.spaservices.extensions.6.0.3.nupkg.sha512",
+    "C:\\Users\\theic\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\theic\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\6.0.0\\microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
+    "C:\\Users\\theic\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0\\microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
+    "C:\\Users\\theic\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\theic\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
